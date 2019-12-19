@@ -1,0 +1,57 @@
+{
+    "name": "Hyperglance",
+    "description": "Easily find cloud security holes and misconfiguration, then see the affected resources and their dependencies on an automatic, real-time, dynamic map.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19021-hyperglance.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hyperglance\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Hyperglance",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19021-hyperglance.jpg",
+            "humanURL": "https:\/\/www.hyperglance.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hyperglance-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.hyperglance.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "contact@hyperglance.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@hyperglance.com"
+        },
+        {
+            "type": "Email",
+            "url": "partner@hyperglance.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hyperglance"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.hyperglance.com\/"
+        }
+    ]
+}
